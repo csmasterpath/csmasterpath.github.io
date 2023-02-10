@@ -161,7 +161,7 @@ export default defineUserConfig({
       // ba: "10b7bc420625758a319d6b23aed4700f",
       rss: {
         siteURL: "https://jyd.pages.dev",
-        copyright: "Krahets 2022"
+        copyright: "Krahets 2023"
       },
       pwa: true,
       readingTime: {
@@ -173,7 +173,7 @@ export default defineUserConfig({
     },
 
     footer: `
-      &copy; <a href="https://github.com/krahets" target="_blank">Krahets</a> 2020-2022
+      &copy; <a href="https://github.com/krahets" target="_blank">Krahets</a> 2023
     `
   }),
 
