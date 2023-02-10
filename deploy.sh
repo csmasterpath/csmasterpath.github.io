@@ -3,5 +3,5 @@ cd docs/.vuepress/dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:krahets/blog.git master:gh-pages
+git push -f git@github.com:krahets/blog.git main:gh-pages
 cd -
