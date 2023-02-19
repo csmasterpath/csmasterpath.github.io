@@ -1,7 +1,7 @@
 ---
 title: 「论文笔记」Plenoxels
 subtitle: Alex Xu, et al. Plenoxels Radiance Fields without Neural Networks. CVPR 2022
-author: Krahets
+author: csmasterpath
 date: 2022-10-22
 tags: 
   - PaperReading

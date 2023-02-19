@@ -55,11 +55,11 @@ links:
       - sitename: Hello算法
         url: https://www.hello-algo.com/
         img: /img/links/hello-algo.png
-        desc: by Krahets
+        desc: by csmasterpath
       - sitename: 图解算法数据结构
         url: https://leetcode.cn/leetbook/detail/illustration-of-algorithm/
         img: /img/links/leetbook_ioa.png
-        desc: by Krahets
+        desc: by csmasterpath
       - sitename: 算法吧
         url: https://suanfa8.com/
         img: /img/links/suanfa8.png

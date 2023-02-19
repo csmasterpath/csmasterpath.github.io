@@ -1,7 +1,7 @@
 ---
 title: 「论文笔记」SLAM-oriented ICP Algorithm
 subtitle: Hao Bai, et al. ICP Algorithm - Theory, Practice And Its SLAM-oriented Taxonomy. arXiv 2022
-author: Krahets
+author: csmasterpath
 date: 2022-09-03
 tags: 
   - PaperReading

@@ -1,7 +1,7 @@
 {
-  "name": "Krahets",
-  "short_name": "Krahets",
-  "description": "Krahets",
+  "name": "csmasterpath",
+  "short_name": "csmasterpath",
+  "description": "csmasterpath",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#22272e",

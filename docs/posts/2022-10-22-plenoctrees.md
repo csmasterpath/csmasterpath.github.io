@@ -1,7 +1,7 @@
 ---
 title: 「论文笔记」PlenOctrees
 subtitle: Alex Xu, et al. PlenOctrees for Real-time Rendering of Neural Radiance Fields. ICCV 2021
-author: Krahets
+author: csmasterpath
 date: 2022-10-22
 tags: 
   - PaperReading

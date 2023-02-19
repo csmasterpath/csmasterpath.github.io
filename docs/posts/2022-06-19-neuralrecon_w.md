@@ -1,7 +1,7 @@
 ---
 title: 「论文笔记」NeuralRecon-W
 subtitle: Jiaming Sun, et al. Neural 3D Reconstruction in the Wild. SIGGRAPH 2022
-author: Krahets
+author: csmasterpath
 date: 2022-06-28
 tags: 
   - PaperReading

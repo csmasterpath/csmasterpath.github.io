@@ -1,7 +1,7 @@
 ---
 title: 「论文笔记」Structure-from-Motion Revisited
 subtitle: Schonberger, et al. Structure-From-Motion Revisited. CVPR 2016
-author: Krahets
+author: csmasterpath
 date: 2022-07-01
 tags: 
   - PaperReading

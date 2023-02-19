@@ -30,8 +30,8 @@ export default defineUserConfig({
       }
     ],
     ["link", { rel: "manifest", href: "/manifest.webmanifest" }],
-    ["meta", { name: "application-name", content: "Krahets" }],
-    ["meta", { name: "apple-mobile-web-app-title", content: "Krahets" }],
+    ["meta", { name: "application-name", content: "csmasterpath" }],
+    ["meta", { name: "apple-mobile-web-app-title", content: "csmasterpath" }],
     ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
     ["link", { rel: "apple-touch-icon", href: `/img/logo/apple-touch-icon.png` }],
     ["meta", { name: "theme-color", content: "#1e2124" }],
@@ -42,13 +42,13 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "Krahets",
-      description: "Krahets"
+      title: "csmasterpath",
+      description: "csmasterpath"
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "Krahets",
-      description: "Krahets"
+      title: "csmasterpath",
+      description: "csmasterpath"
     }
   },
 
@@ -58,30 +58,30 @@ export default defineUserConfig({
 
   // configure default theme
   theme: gungnirTheme({
-    repo: "krahets/blog",
+    repo: "csmasterpath/csmasterpath.github.io",
     // docsDir: "docs",
 
     hitokoto: "https://v1.hitokoto.cn?c=i", // enable hitokoto (一言) or not?
 
     // personal information
     personalInfo: {
-      name: "Yudong Jin (Krahets)",
+      name: "Yudong Jin (csmasterpath)",
       avatar: "/img/avatar.png",
       description: "from light comes darkness, from darkness be light",
       sns: {
         github: {
           icon: "bi-github",
-          link: "https://github.com/krahets"
+          link: "https://github.com/csmasterpath"
         },
         leetcode: {
           icon: "co-code",
           link: "https://leetcode.cn/u/jyd/"
         },
-        twitter: "krahets",
+        twitter: "csmasterpath",
         // linkedin: "yudongjin",
-        // facebook: "krahets",
-        // zhihu: "krahets",
-        email: "krahets@163.com"
+        // facebook: "csmasterpath",
+        // zhihu: "csmasterpath",
+        email: "csmasterpath@163.com"
       }
     },
 
@@ -148,7 +148,7 @@ export default defineUserConfig({
       mermaid: true,
       chartjs: true,
       giscus: {
-        repo: "krahets/blog",
+        repo: "csmasterpath/csmasterpath.github.io",
         repoId: "R_kgDOHvvq6Q",
         category: "Announcements",
         categoryId: "DIC_kwDOHvvq6c4CQjiJ",
@@ -161,7 +161,7 @@ export default defineUserConfig({
       // ba: "10b7bc420625758a319d6b23aed4700f",
       rss: {
         siteURL: "https://jyd.pages.dev",
-        copyright: "Krahets 2023"
+        copyright: "csmasterpath 2023"
       },
       pwa: true,
       readingTime: {
@@ -173,7 +173,7 @@ export default defineUserConfig({
     },
 
     footer: `
-      &copy; <a href="https://github.com/krahets" target="_blank">Krahets</a> 2023
+      &copy; <a href="https://github.com/csmasterpath" target="_blank">csmasterpath</a> 2023
     `
   }),
 

@@ -1,4 +1,4 @@
-# Krahets Blog
+# csmasterpath Blog
 
 This blog is powered by [VuePress 2](https://v2.vuepress.vuejs.org/) and [Gungnir](https://github.com/Renovamen/vuepress-theme-gungnir).
 

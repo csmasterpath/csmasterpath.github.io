@@ -1,7 +1,7 @@
 ---
 title: 「论文笔记」Volume Rendering Digest (for NeRF)
 subtitle: Andrea Tagliasacchi, et al. Volume Rendering Digest (for NeRF). arXiv 2022
-author: Krahets
+author: csmasterpath
 date: 2022-10-05
 tags: 
   - PaperReading
